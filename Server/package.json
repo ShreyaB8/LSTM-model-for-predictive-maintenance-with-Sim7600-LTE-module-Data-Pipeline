@@ -1,0 +1,22 @@
+{
+  "name": "req-handler-for-sim7600e",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "debug": "~2.6.9",
+    "ejs": "^2.7.4",
+    "express": "^4.16.4",
+    "http-errors": "^1.6.3",
+    "mongoose": "^5.12.10",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.2",
+    "node": "^15.12.0",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  }
+}
